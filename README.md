@@ -1,2 +1,2 @@
 # appleseeds-git-tutorial
-This is a tutorial on how to use git
+This is a starting tutorial on how to use git
